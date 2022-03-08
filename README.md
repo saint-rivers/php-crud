@@ -1,6 +1,14 @@
 # PHP for Dummies
 
-## Setup
+## Setup PHP
+
+<https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04>
+
+## Setup Database
+
+<https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04>
+
+## Setup Project
 
 ``` bash
 git clone git@github.com:saint-rivers/php-crud.git
